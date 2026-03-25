@@ -36,3 +36,14 @@
 
 `git push -u origin dev`
 
+## 5-Pull Request and Merging:
+
+### Pull request :
+
+<img width="1306" height="880" alt="Pull_Request" src="https://github.com/user-attachments/assets/2d84f066-c826-469f-ab72-996882d2bab8" />
+
+> Il ya une autre method on utilisand la CLI : `gh pr create`
+
+### Mergind Branch :
+
+<img width="1363" height="721" alt="Merge" src="https://github.com/user-attachments/assets/c6bee23a-b16a-4962-b7f1-eacd57818c18" />
